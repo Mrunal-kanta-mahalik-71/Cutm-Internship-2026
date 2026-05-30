@@ -1,3 +1,4 @@
+package First_task;
 import java.util.*;
 class Variable
 {
