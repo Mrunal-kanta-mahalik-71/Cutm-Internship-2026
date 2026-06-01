@@ -1,6 +1,6 @@
 package Array;
 import java.util.Scanner;
-public class even_sum 
+public class odd_sum 
 {
        public static void main(String [] arg)
     {
@@ -13,15 +13,15 @@ public class even_sum
         {
             arr[i]=sc.nextInt();
         }
-        int evensum=0;
+        int oddsum=0;
         for(int i=0;i<size;i++)
         {
-            if(arr[i]%2==0)
+            if(arr[i]%2!=0)
             {
-                evensum=evensum+arr[i];
+                oddsum=oddsum+arr[i];
             }
         }
-        System.out.println("Sum of even array elements are :"+evensum);
+        System.out.println("Sum of odd array elements are :"+oddsum);
         sc.close();
     }
 }
