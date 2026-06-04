@@ -2,5 +2,6 @@
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
         "JDBC_EMP/lib/mysql-connector-j-9.7.0.jar"
-    ]
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
