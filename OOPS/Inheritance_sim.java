@@ -1,6 +1,5 @@
 package OOPS;
 
-
 class Sim {
     void connect() {
         System.out.println("Connecting to network...");
