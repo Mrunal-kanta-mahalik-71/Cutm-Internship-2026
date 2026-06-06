@@ -30,7 +30,7 @@ class Phone {
         if (s != null) {
             s.call();
         } else {
-            System.out.println("No SIM card inserted.");
+            System.out.println("No SIM Card inserted.");
         }
     }
 }
