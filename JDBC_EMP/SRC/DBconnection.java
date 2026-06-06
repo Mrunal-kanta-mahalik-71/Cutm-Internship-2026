@@ -19,7 +19,7 @@ public class DBconnection {
                 "Rajababu@2004"
             );
 
-            System.out.println("Database Connected");
+            System.out.println("Database Connected Successfully");
 
         } catch (Exception e) {
 
