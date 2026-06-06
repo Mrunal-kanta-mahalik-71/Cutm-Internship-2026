@@ -8,7 +8,7 @@ public class even_or_odd{
         int x=sc.nextInt();
         if(x%2==0)
         {
-            System.out.println(x+" is a even number");
+            System.out.println(x+" is an even number");
         }
         else
         {
