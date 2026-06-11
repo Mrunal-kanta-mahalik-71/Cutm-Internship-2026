@@ -1,6 +1,7 @@
 package Array;
 import java.util.Scanner;
 public class Rmv_dupli 
+
  {
 
     public static void main(String[] args) {
